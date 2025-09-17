@@ -43,8 +43,10 @@
 <ul><li>Terminate and delete boot volume; verify cleanup</li></ul>
 <h2>Reflection</h2>
 <h3>Similarities</h3>
-<ul><li></li></ul>
+<ul><li>Both OCI and GCP have a web interface that allows for customization of free scalable VM instance types and storage options</li>
+<li>Boh OCI and GCP support Ubuntu operating system and support private networking and connectivity between clouds</li>
+<li>Both OCI and GCP have a similar process to the creation of VM</li></ul>
 <h3>Differences</h3>
-<ul><li></li></ul>
+<ul><li>GCP offers a much simplier and user-friendly interface whereas OCI requires more advance configurations and is more enterprise focused with extra dedication towards security and privacy measures</li></ul>
 <h3>Preference and Explaination</h3>
-<p></p>
+<p>I would prefer the GCP over the OCI VM mainly due to it's user-friendly interface and tailored it is to beginners. OCI contains a much more complex configuration system that would be great for professionals but as a student who is learning to use virtual machines for the first time, GCP provides that quick and easy setup.</p>
